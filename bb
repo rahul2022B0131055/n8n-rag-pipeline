@@ -1,0 +1,1 @@
+.github/delete-image.png

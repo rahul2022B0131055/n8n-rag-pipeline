@@ -89,7 +89,7 @@ If you're using **n8n cloud with built-in OpenAI credits**, you can skip the `OP
 
 This diagram shows the full RAG pipeline in n8n:
 
-![RAG Workflow Diagram](./workflow-diagram.png)
+![RAG Workflow Diagram](./demo_1.png)
 
 ---
 
@@ -97,5 +97,5 @@ This diagram shows the full RAG pipeline in n8n:
 
 Here’s how the chatbot responds to document-based queries:
 
-![Chatbot Demo](./chat-demo.png)
+![Chatbot Demo](./demo_2.png)
 
